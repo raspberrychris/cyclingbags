@@ -1,5 +1,2 @@
 User-agent: *
-Disallow: /tags/
-Disallow: /categories/
-
-Sitemap: https:///cyclingbags.co.uk/sitemap.xml
+Disallow: /
