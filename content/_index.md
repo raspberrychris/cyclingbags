@@ -7,9 +7,9 @@ weight: 1
 canonicalUrl: “/"
 ---
 
-Welcome to [Cycling Bags](/) the top place to find your baby a **moses basket**! **Cycling Bags** is an independent expert UK based buying guide to find the best Cycling Bags for your newborn child.  We have reviewed some of the **best Cycling Bags** and bedding for your newborn baby.
+Welcome to [Cycling Bags](/) the top place to find a perfect bag for your next cycling trip! **Cycling Bags** is an independent expert UK based buying guide to find the best Cycling Bags and accessories.  We have reviewed some of the **best Cycling Bags** so you can take the hard work out of finding a cycling bag.
 
-![moses-basket-baby](<https://images.unsplash.com/photo-1601168313753-6797eabb6550?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80>)
+![cycling-bags](<https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80>)
 
 
 ## Moses Basket Beginners Guide
